@@ -560,7 +560,3 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     }
 }
 ```
-
----
-
-This README file covers the purpose of each component, how to use them, and provides an example setup for integrating these components into a project.
