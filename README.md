@@ -1,6 +1,3 @@
-Here's a comprehensive README file that covers all the provided code, its purpose, and how to use it:
-
----
 
 # Network Layer with Combine and Alamofire
 
